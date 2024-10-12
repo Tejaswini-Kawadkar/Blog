@@ -1,5 +1,7 @@
 Verde, verde, me gusta el verde.
+
 Verde, verde es el mejor color.
+
 Me gusta el verde, ¿sabes por qué?
 Es porque mi papá trabaja en el bosque.
 Me gusta el verde, ¿sabes por qué?
