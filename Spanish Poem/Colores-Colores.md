@@ -1,28 +1,26 @@
-Verde, verde, me gusta el verde.
+Verde, verde, me gusta el verde.<br>
+Verde, verde es el mejor color.<br>
+Me gusta el verde, ¿sabes por qué?<br>
+Es porque mi papá trabaja en el bosque.<br>
+Me gusta el verde, ¿sabes por qué?<br>
+Es porque mi papá trabaja en el bosque.<br>
 
-Verde, verde es el mejor color.
+Rojo, rojo, me gusta el rojo.<br>
+Rojo, rojo es el mejor color.<br>
+Me gusta el rojo, ¿sabes por qué?<br>
+Es porque mi papá es un bombero.<br>
+Me gusta el rojo, ¿sabes por qué?<br>
+Es porque mi papá es un bombero.<br>
 
-Me gusta el verde, ¿sabes por qué?
-Es porque mi papá trabaja en el bosque.
-Me gusta el verde, ¿sabes por qué?
-Es porque mi papá trabaja en el bosque.
+Blanco, blanco, me gusta el blanco.<br>
+Blanco, blanco es el mejor color.<br>
+Me gusta el blanco, ¿sabes por qué?<br>
+Es porque mi papá es un panadero.<br>
+Me gusta el blanco, ¿sabes por qué?<br>
+Es porque mi papá es un panadero.<br>
 
-Rojo, rojo, me gusta el rojo.
-Rojo, rojo es el mejor color.
-Me gusta el rojo, ¿sabes por qué?
-Es porque mi papá es un bombero.
-Me gusta el rojo, ¿sabes por qué?
-Es porque mi papá es un bombero.
-
-Blanco, blanco, me gusta el blanco.
-Blanco, blanco es el mejor color.
-Me gusta el blanco, ¿sabes por qué?
-Es porque mi papá es un panadero.
-Me gusta el blanco, ¿sabes por qué?
-Es porque mi papá es un panadero.
-
-Azul, azul, me gusta el azul.
-Azul, azul es el mejor color.
+Azul, azul, me gusta el azul.<br>
+Azul, azul es el mejor color.<br>
 Me gusta el azul, ¿sabes por qué?
 Es porque mi papá es un marinero.
 Me gusta el azul, ¿sabes por qué?
