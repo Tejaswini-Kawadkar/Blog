@@ -54,9 +54,10 @@ Es porque mi papá es un pintor.<br>
 Me gustan los colores, ¿sabes por qué?<br>
 Es porque mi papá es un pintor.<br>
 
-**English Translation**
 
-Green, green, I like green.<br>
+# **English Translation**
+
+*Green, green, I like green.<br>
 Green, green is the best color.<br>
 I like green, do you know why?<br>
 It's because my dad works in the forest.<br>
@@ -110,4 +111,4 @@ Colors, colors, they are all pretty.<br>
 I like colors, do you know why?<br>
 It's because my dad is a painter.<br>
 I like colors, do you know why?<br>
-It's because my dad is a painter.<br>
+It's because my dad is a painter.*<br>
