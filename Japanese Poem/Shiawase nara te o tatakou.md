@@ -25,20 +25,20 @@ Hora minna de wink shiyō <br>
 
 Shiawase nara yubi narasou <br>
 Shiawase nara yubi narasou <br>
-Shiwasese nara taidode shimesou yo <br>
+Shiwasese nara taido de shimesou yo <br>
 Hora minna de yubi narasou <br>
 
 Shiawase nara te wo tatakō <br>
 Shiawase nara te wo tatakō <br>
-Shiawase nara taidode shimesou yo <br>
+Shiawase nara taido de shimesou yo <br>
 Hora minna de te wo tatakō <br>
 
 # Japanese (Hiragana)
 
-しあわせ なら て を たたこう <br>
-しあわせ なら て を たたこう <br>
-しあわせ なら たいど で しめそう よ <br>
-そら みんな で て を たたこう <br>
+しあわせ  なら  て  を  たたこう <br>
+しあわせ  なら  て  を  たたこう <br>
+しあわせ  なら たいど  で  しめそう  よ <br>
+そら  みんな  で  て  を  たたこう <br>
 
 しあわせ なら あし ならそう <br>
 しあわせ なら あし ならそう <br>
