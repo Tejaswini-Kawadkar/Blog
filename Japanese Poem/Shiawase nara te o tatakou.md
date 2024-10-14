@@ -1,7 +1,7 @@
-Shiawase nara te o tatakou <br>
-Shiawase nara te o tatakou <br>
+Shiawase nara te wo tatakou <br>
+Shiawase nara te wo tatakou <br>
 Shiawase nara taido de shimesou yo <br>
-Sora minna de te o tatakou <br>
+Sora minna de te wo tatakou <br>
 
 Shiawase nara ashi narasou <br>
 Shiawase nara ashi narasou <br>
@@ -10,28 +10,28 @@ Sora minna de ashi narasou <br>
 
 Shiawase nara kata tatakō <br>
 Shiawase nara kata tatakō <br>
-Shiawase nara taidode shime souyo <br>
+Shiawase nara taido de shimesou yo <br>
 Hora minna de kata tatakō <br>
 
 Shiawase nara hōpe tatakō <br>
 Shiawase nara hōpe tatakō <br>
-Shiawase nara taidode shime souyo <br>
+Shiawase nara taido de shimesou yo <br>
 Hora minna de hōpe tatakō <br>
 
 Shiwase nara wink shiyō <br>
 Shiwase nara wink shiyō <br>
-Shiawase nara taidode shime souyo <br>
+Shiawase nara taido de shimesou yo <br>
 Hora minna de wink shiyō <br>
 
 Shiawase nara yubi narasou <br>
 Shiawase nara yubi narasou <br>
-Shiwasese nara taidode shime souyo <br>
+Shiwasese nara taidode shimesou yo <br>
 Hora minna de yubi narasou <br>
 
-Shiawase nara te o tatakō <br>
-Shiawase nara te o tatakō <br>
-Shiawase nara taidode shime souyo <br>
-Hora minna de te o tatakō <br>
+Shiawase nara te wo tatakō <br>
+Shiawase nara te wo tatakō <br>
+Shiawase nara taidode shimesou yo <br>
+Hora minna de te wo tatakō <br>
 
 # English Translation
 
