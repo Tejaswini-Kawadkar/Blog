@@ -57,58 +57,58 @@ Es porque mi papá es un pintor.<br>
 
 # **English Translation**
 
-Green, green, I like green.<br>
-Green, green is the best color.<br>
-I like green, do you know why?<br>
-It's because my dad works in the forest.<br>
-I like green, do you know why?<br>
-It's because my dad works in the forest.<br>
+*Green, green, I like green.<br>*
+*Green, green is the best color.<br>*
+*I like green, do you know why?<br>*
+*It's because my dad works in the forest.<br>*
+*I like green, do you know why?<br>*
+*It's because my dad works in the forest.<br>*
 
-Red, red, I like red.<br>
-Red, red is the best color.<br>
-I like red, do you know why?<br>
-It's because my dad is a fireman.<br>
-I like red, do you know why?<br>
-It's because my dad is a fireman.<br>
+*Red, red, I like red.<br>*
+*Red, red is the best color.<br>*
+*I like red, do you know why?<br>*
+*It's because my dad is a fireman.<br>*
+*I like red, do you know why?<br>*
+*It's because my dad is a fireman.<br>*
 
-White, white I like white.<br>
-White, white is the best color.<br>
-I like white, do you know why?<br>
-It's because my dad is a baker.<br>
-I like white, do you know why?<br>
-It's because my dad is a baker.<br>
+*White, white I like white.<br>*
+*White, white is the best color.<br>*
+*I like white, do you know why?<br>*
+*It's because my dad is a baker.<br>*
+*I like white, do you know why?<br>*
+*It's because my dad is a baker.<br>*
 
-Blue, blue, I like blue.<br>
-Blue, blue is the best color.<br>
-I like blue, do you know why?<br>
-It's because my dad is a sailor.<br>
-I like blue, do you know why?<br>
-It's because my dad is a sailor.<br>
+*Blue, blue, I like blue.<br>*
+*Blue, blue is the best color.<br>*
+*I like blue, do you know why?<br>*
+*It's because my dad is a sailor.<br>*
+*I like blue, do you know why?<br>*
+*It's because my dad is a sailor.<br>*
 
-Black, black, I like black.<br>
-Black, black is the best color.<br>
-I like black, do you know why?<br>
-It's because my dad is a miner.<br>
-I like black, do you know why?<br>
-It's because my dad is a miner.<br>
+*Black, black, I like black.<br>*
+*Black, black is the best color.<br>*
+*I like black, do you know why?<br>*
+*It's because my dad is a miner.<br>*
+*I like black, do you know why?<br>*
+*It's because my dad is a miner.<br>*
 
-Yellow, I like yellow.<br>
-Yellow is the best color.<br>
-I like yellow, do you know why?<br>
-It's because my dad is a taxi driver.<br>
-I like yellow, do you know why?<br>
-It's because my dad is a taxi driver.<br>
+*Yellow, I like yellow.<br>*
+*Yellow is the best color.<br>*
+*I like yellow, do you know why?<br>*
+*It's because my dad is a taxi driver.<br>*
+*I like yellow, do you know why?<br>*
+*It's because my dad is a taxi driver.<br>*
 
-Orange, I like orange.<br>
-Orange is the best color.<br>
-I like orange, do you know why?<br>
-It's because my dad plants oranges.<br>
-I like orange, do you know why?<br>
-It's because my dad plants oranges.<br>
+*Orange, I like orange.<br>*
+*Orange is the best color.<br>*
+*I like orange, do you know why?<br>*
+*It's because my dad plants oranges.<br>*
+*I like orange, do you know why?<br>*
+*It's because my dad plants oranges.<br>*
 
-Colors, colors, I like colors.<br>
-Colors, colors, they are all pretty.<br>
-I like colors, do you know why?<br>
-It's because my dad is a painter.<br>
-I like colors, do you know why?<br>
-It's because my dad is a painter.<br>
+*Colors, colors, I like colors.<br>*
+*Colors, colors, they are all pretty.<br>*
+*I like colors, do you know why?<br>*
+*It's because my dad is a painter.<br>*
+*I like colors, do you know why?<br>*
+*It's because my dad is a painter.<br>*
